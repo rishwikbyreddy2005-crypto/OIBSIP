@@ -235,6 +235,33 @@ DataScience-Level3-CarPricePrediction/
 
 ```bash
 git clone https://github.com/rishwikbyreddy2005-crypto/OIBSIP
+```
+
+### 2. Open the project folder
+
+```bash
+cd OIBSIP/DataScience-Level3-CarPricePrediction
+```
+
+### 3. Install required libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+### 4. Start Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 5. Open
+
+```text
+Car_Price_Prediction.ipynb
+```
+
+Run the cells sequentially to reproduce the analysis and results.
 
 Open the following file in Jupyter Notebook:
 
