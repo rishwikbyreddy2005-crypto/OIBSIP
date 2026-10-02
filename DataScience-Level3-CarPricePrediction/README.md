@@ -229,25 +229,12 @@ DataScience-Level3-CarPricePrediction/
     ├── correlation_heatmap.png
     ├── actual_vs_predicted.png
     └── model_comparison.png
-**▶️ How to Run
+## ▶️ How to Run
 
 ### 1. Clone the repository
 
-    git clone <your-github-repository-url>
-
-### 2. Open the project folder
-
-    cd OIBSIP/DataScience-Level3-CarPricePrediction
-
-### 3. Install required libraries
-
-    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-
-### 4. Start Jupyter Notebook
-
-    jupyter notebook
-
-### 5. Open the Notebook**
+```bash
+git clone https://github.com/rishwikbyreddy2005-crypto/OIBSIP
 
 Open the following file in Jupyter Notebook:
 
