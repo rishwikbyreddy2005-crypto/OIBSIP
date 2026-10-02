@@ -229,6 +229,7 @@ DataScience-Level3-CarPricePrediction/
     ├── correlation_heatmap.png
     ├── actual_vs_predicted.png
     └── model_comparison.png
+```
 ## ▶️ How to Run
 
 ### 1. Clone the repository
