@@ -229,22 +229,31 @@ DataScience-Level3-CarPricePrediction/
     ├── correlation_heatmap.png
     ├── actual_vs_predicted.png
     └── model_comparison.png
-▶️ How to Run
-1. Clone the repository
-git clone <your-github-repository-url>
+**▶️ How to Run
 
-2. Open the project folder
-cd OIBSIP/DataScience-Level3-CarPricePrediction
+### 1. Clone the repository
 
-3. Install required libraries
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+    git clone <your-github-repository-url>
 
-4. Start Jupyter Notebook
-jupyter notebook
+### 2. Open the project folder
 
-5. Open
-Car_Price_Prediction.ipynb
+    cd OIBSIP/DataScience-Level3-CarPricePrediction
 
+### 3. Install required libraries
+
+    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
+### 4. Start Jupyter Notebook
+
+    jupyter notebook
+
+### 5. Open the Notebook**
+
+Open the following file in Jupyter Notebook:
+
+    Car_Price_Prediction.ipynb
+
+Run the cells sequentially to reproduce the analysis, visualizations, model training, and results.
 Run the cells sequentially to reproduce the analysis and results.
 💡 Key Learning Outcomes
 Through this project, I learned:
